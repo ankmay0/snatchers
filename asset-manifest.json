@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankmay0/snatchers/blob/main/client/public/index.html/static/css/main.5ffd7551.css",
+    "main.js": "/ankmay0/snatchers/blob/main/client/public/index.html/static/js/main.f74d5a6e.js",
+    "static/js/453.419a5d54.chunk.js": "/ankmay0/snatchers/blob/main/client/public/index.html/static/js/453.419a5d54.chunk.js",
+    "index.html": "/ankmay0/snatchers/blob/main/client/public/index.html/index.html",
+    "main.5ffd7551.css.map": "/ankmay0/snatchers/blob/main/client/public/index.html/static/css/main.5ffd7551.css.map",
+    "main.f74d5a6e.js.map": "/ankmay0/snatchers/blob/main/client/public/index.html/static/js/main.f74d5a6e.js.map",
+    "453.419a5d54.chunk.js.map": "/ankmay0/snatchers/blob/main/client/public/index.html/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ffd7551.css",
+    "static/js/main.f74d5a6e.js"
+  ]
+}
